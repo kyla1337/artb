@@ -1565,6 +1565,7 @@ body:has(.offcanvas){
 
 .intro-video-box.about-intro-video{
 	text-align: end;
+	display: grid;
 }
 
 .intro-video-box.about-intro-video .video-play-button p{
