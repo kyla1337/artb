@@ -2026,7 +2026,7 @@ body:has(.offcanvas){
 
 .offer-image img{
 	width: 100%;
-	aspect-ratio: 1 / 1.405;
+	aspect-ratio: 1 / 1;
 	object-fit: cover;
 	border-radius: 400px 400px 0 0;
 }
