@@ -4571,6 +4571,7 @@ body:has(.offcanvas){
 
 	.hero{
 		padding: 100px 0;
+		background-position: center !important;
 	}
 
 	.hero.hero-slider-layout .hero-slide{
