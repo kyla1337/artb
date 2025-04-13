@@ -1344,7 +1344,7 @@ body:has(.offcanvas){
 }
 
 .about-us-img figure{
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 	display: block;
 }
 
@@ -1693,7 +1693,7 @@ body:has(.offcanvas){
 
 .pricing-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .pricing-image img{
@@ -2022,7 +2022,7 @@ body:has(.offcanvas){
 
 .offer-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .offer-image img{
@@ -2117,7 +2117,7 @@ body:has(.offcanvas){
 
 .about-restaurant-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .about-restaurant-image img{
@@ -2668,7 +2668,7 @@ body:has(.offcanvas){
 
 .our-approach-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .our-approach-image img{
@@ -2812,7 +2812,7 @@ body:has(.offcanvas){
 
 .our-story-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .our-story-image img{
@@ -2985,7 +2985,7 @@ body:has(.offcanvas){
 
 .faqs-image figure{
 	display: block;
-	border-radius: 400px 400px 0 0;
+	border-radius: 400px 400px 50px 50px;
 }
 
 .faqs-image img{
