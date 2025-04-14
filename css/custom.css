@@ -2244,7 +2244,7 @@ body:has(.offcanvas){
 	height: 60px;
 	background-color: var(--dark-divider-color);
 	border-radius: 50%;
-	transition: all 0.4s ease-in-out;
+	transition: all 0.10s ease-in-out;
 	z-index: 1;
 }
 
@@ -2275,7 +2275,7 @@ body:has(.offcanvas){
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.4s ease-in-out;
+    transition: all 0.10s ease-in-out;
 }
 
 .testimonial-btn .testimonial-btn-next::before{
@@ -2294,7 +2294,7 @@ body:has(.offcanvas){
     background: var(--secondary-color);
     opacity: 1;
     margin: 0 3px;
-    transition: all 0.4s ease-in-out;
+    transition: all 0.10s ease-in-out;
 }
 
 .testimonial-pagination .swiper-pagination-bullet-active{
