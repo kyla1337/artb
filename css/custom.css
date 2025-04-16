@@ -5770,6 +5770,7 @@ body:has(.offcanvas){
 	.intro-video-box.about-intro-video{
 		text-align: center;
 		margin-top: 40px;
+		justify-content: center
 	}
 
 	.intro-video-box.about-intro-video .video-play-button p{
