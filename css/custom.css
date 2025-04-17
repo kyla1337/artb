@@ -4772,6 +4772,7 @@ body:has(.offcanvas){
 	.menu-list-item{
 		margin-bottom: 20px;
 		padding-bottom: 20px;
+		justify-content: center;
 	}
 
 	.menu-list-image{
