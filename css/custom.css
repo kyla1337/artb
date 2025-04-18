@@ -1577,7 +1577,7 @@ body:has(.offcanvas){
 	flex-wrap: wrap;
 	gap: 30px;
 	border-top: 1px solid var(--divider-color);
-	margin-top: 200px;
+	margin-top: 50px;
 	padding-top: 40px;
 }
 
