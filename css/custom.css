@@ -2385,7 +2385,7 @@ body:has(.offcanvas){
 
 .footer-contact-list{
 	display: flex;
-	gap: 30px 15px;
+	gap: 30px 10px;
 	flex-wrap: wrap;
 }
 
