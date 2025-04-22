@@ -332,15 +332,11 @@
 
                         <!-- Contact Form Start -->
                          <div class="contact-form">
-                                <div class="row">
-                                    <div class="form-group col-md-6 mb-5">
-	                                <div class="icon-box">
-	                                    <img src="images/icon-our-mission.svg" alt="">
-	                                </div>
-	                                <div class="mission-vision-content">
-	                                    <h3><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ab_artisanbistro">Instagram</a></h3>
-	                                    <p>Follow us on Instagram for the latest updates, behind-the-scenes glimpses, and first looks at our new menu items!</p>
-	                                </div>
+                            <form id="contactForm" action="#" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
+                                 <div class="row">
+                                     <div class="form-group col-md-6 mb-5">
+                                         <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" required>
+                                         <div class="help-block with-errors"></div>
                                     </div>
     
                                     <div class="form-group col-md-6 mb-5">
