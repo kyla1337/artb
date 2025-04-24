@@ -2683,7 +2683,7 @@ body:has(.offcanvas){
 	background: url('../images/offer-bg-image.png') no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
-	padding: 100px 0 70px;
+	padding: 30px 0 10px;
 }
 
 .team-item{
