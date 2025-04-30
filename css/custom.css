@@ -4511,7 +4511,7 @@ body:has(.offcanvas){
 	}
 
 	.navbar{
-		padding: 15px 0;
+		padding: 0px 0;
 	}
 
 	.main-menu ul li.highlighted-menu{
