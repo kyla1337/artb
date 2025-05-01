@@ -414,7 +414,6 @@
     
                                     <div class="form-group col-md-12 mb-5">
                                         <textarea name="message" class="form-control" id="message" rows="3" placeholder="Date & Details"></textarea>
-					<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
                                         <div class="help-block with-errors"></div>
                                     </div>
     
@@ -423,6 +422,7 @@
 					    <input type="hidden" name="redirect" value="https://web3forms.com/success">
                                             <button type="submit" class="btn-default">submit message</button>
                                             <div id="msgSubmit" class="h3 hidden"></div>
+					    <div class="h-captcha" data-captcha="true"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -575,5 +575,6 @@
     <script src="js/wow.min.js"></script>
     <!-- Main Custom js file -->
     <script src="js/function.js"></script>
+    <script src="https://web3forms.com/client/script.js" async defer></script>
 </body>
 </html>
