@@ -389,7 +389,7 @@
 
                         <!-- Contact Form Start -->
                          <div class="contact-form">
-                            <form action="https://api.web3forms.com/submit" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
+                            <form id="contactForm" action="https://api.web3forms.com/submit" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
                                 <div class="row">
 					<input type="hidden" name="access_key" value="212b6f56-5a67-459e-a8b8-054d8cf7b344">
                                     <div class="form-group col-md-6 mb-5">
@@ -577,7 +577,7 @@
     <script src="js/function.js"></script>
     <script src="https://web3forms.com/client/script.js" async defer></script>
 <script>
-const form = document.getElementById('212b6f56-5a67-459e-a8b8-054d8cf7b344');
+const form = document.getElementById('contactForm');
 
 form.addEventListener('submit', function(e) {
 
