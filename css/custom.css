@@ -4224,7 +4224,7 @@ body:has(.offcanvas){
 .contact-info-body{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 10px;
 }
 
 .contact-info-box-1,
