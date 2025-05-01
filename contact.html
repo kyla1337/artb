@@ -389,9 +389,10 @@
 
                         <!-- Contact Form Start -->
                          <div class="contact-form">
-                            <form id="contactForm" action="contact.php" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
+                            <form id="contactForm" action="https://api.web3forms.com/submit" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
                                 <div class="row">
                                     <div class="form-group col-md-6 mb-5">
+    					<input type="hidden" name="access_key" value="212b6f56-5a67-459e-a8b8-054d8cf7b344">
                                         <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" required>
                                         <div class="help-block with-errors"></div>
                                     </div>
@@ -413,6 +414,8 @@
     
                                     <div class="form-group col-md-12 mb-5">
                                         <textarea name="message" class="form-control" id="message" rows="3" placeholder="Date & Details"></textarea>
+					<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+					<input type="hidden" name="redirect" value="https://web3forms.com/success">
                                         <div class="help-block with-errors"></div>
                                     </div>
     
