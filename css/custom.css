@@ -902,9 +902,10 @@ body:has(.offcanvas){
 	justify-content: center;
 	width: 38px;
 	height: 38px;
-	margin: 0;
 	border-radius: 8px;
 	transition: all 0.3s ease-in-out;
+	margin: -19px 0px 0px -37px;
+    	position: fixed;
 }
 
 .navbar-toggle a.slicknav_btn.slicknav_open{
@@ -950,7 +951,11 @@ body:has(.offcanvas){
 }
 
 .slicknav_menu ul{
-	margin: 5px 0;
+	margin: 0px 0px 0px 0px;;
+	position: fixed;
+	right: 0;
+    	background: #d0af8ef0;
+    	border-radius: 15px;
 }
 
 .slicknav_menu ul ul{
