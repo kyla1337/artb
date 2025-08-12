@@ -4580,6 +4580,7 @@ body:has(.offcanvas){
 		padding: 100px 0;
 		background-position: center !important;
 		background: url(../images/mobilebg.jpg) no-repeat;
+		background-size: cover; 
 	}
 
 	.hero.hero-slider-layout .hero-slide{
@@ -6265,3 +6266,4 @@ body:has(.offcanvas){
         margin-bottom: 20px;
     }
 }
+
