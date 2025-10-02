@@ -4499,7 +4499,7 @@ body:has(.offcanvas){
 	.rest-guru {
 	    position: absolute !important;
 	    right: 54px;
-	    bottom: 277px;
+	    bottom: 278px;
 	    background-size: 164px !important;
 	}
 	
@@ -6279,6 +6279,7 @@ body:has(.offcanvas){
         margin-bottom: 20px;
     }
 }
+
 
 
 
