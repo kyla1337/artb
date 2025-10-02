@@ -149,9 +149,9 @@ body{
 }
 
 .rest-guru {
-  position: fixed !important;
-  right: 1rem;
-  bottom: 1rem;
+  position: absolute !important;
+  right: 54rem;
+  bottom: 14rem;
 }
 
 .image-anime{
@@ -4496,6 +4496,13 @@ body:has(.offcanvas){
 
 @media only screen and (max-width: 991px){
 
+	.rest-guru {
+	    position: absolute !important;
+	    right: -22px;
+	    bottom: -104px;
+	    background-size: 164px !important;
+	}
+	
 	.btn-default{
 		padding: 15px 20px;
 	}
@@ -6272,5 +6279,6 @@ body:has(.offcanvas){
         margin-bottom: 20px;
     }
 }
+
 
 
