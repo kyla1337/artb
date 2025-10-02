@@ -148,6 +148,12 @@ body{
     padding-left: 15px;
 }
 
+.rest-guru {
+  position: fixed !important;
+  right: 1rem;
+  bottom: 1rem;
+}
+
 .image-anime{
 	position: relative;
 	overflow: hidden;
@@ -6266,4 +6272,5 @@ body:has(.offcanvas){
         margin-bottom: 20px;
     }
 }
+
 
